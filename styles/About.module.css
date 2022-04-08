@@ -1,0 +1,13 @@
+/* this doesn't work bc you cant select the whole tag, you need to create a specific className */
+/* if you want to affect the whole tag, you need to put it in globals.css */
+/* p {
+    color: chartreuse;
+} */
+
+.tealText {
+    color: darkturquoise;
+}
+
+.bgBlack {
+    background-color: black;
+}
